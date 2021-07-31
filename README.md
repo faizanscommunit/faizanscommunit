@@ -13,6 +13,4 @@
 ### Our Social Links :
 Github: https://github.com/faizanscommunit 
 
-Facebook Group: https://www.facebook.com/groups/freelancy 
-
 Fiverr: https://www.fiverr.com/faizanscommunit 
