@@ -10,7 +10,7 @@
 - Content Writing
 
 
-### Our Social Links :
-Github: https://github.com/faizanscommunit 
-
-Fiverr: https://www.fiverr.com/faizanscommunit 
+### Social Links
+- Github:  https://github.com/faizanscommunit
+- Fiverr:  https://fvrr.co/3iZIX0L
+- Website: https://faizanscommunit.pythonanywhere.com/
