@@ -11,5 +11,4 @@
 ### Social Links
 - Github:  https://github.com/faizanscommunit
 - Website: https://faizanscommunit.pythonanywhere.com/
-- Facebook: https://www.facebook.com/faizanscommunit
 - Instagram: https://www.instagram.com/faizanscommunit/
