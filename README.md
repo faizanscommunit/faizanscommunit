@@ -3,7 +3,7 @@ At Faizanscommunit, we believe in the power of community-driven learning and col
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,ts,vscode,js,html,ai,ps,css,django" />
+    <img src="https://skillicons.dev/icons?i=github,python,ts,vscode,js,html,ai,ps,css,django" />
   </a>
 </p>
 
