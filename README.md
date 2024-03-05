@@ -1,7 +1,7 @@
 # Faizanscommunit
 ### Our Services:
-- Complete Setup file for your Software / program
-- Complete Web Developement
+- Complete the Setup file for your Software/program
+- Complete Web Development
 - Convert Python Script into exe format
 - Solve errors in your Django Site
 - Solve errors in Python Script
